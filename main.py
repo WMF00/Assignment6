@@ -1,7 +1,3 @@
-import sys
-
-
-
 
 def piglatin():
     words = str(input("Input Sentence:")).split()
